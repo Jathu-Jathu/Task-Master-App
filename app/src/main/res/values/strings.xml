@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Task Master</string>
+    <string name="text1">Task Master</string>
+    <string name="textView">Master Your To-Dos, Own Your Day</string>
+    <string name="button1">"Let's Start"</string>
+    <string name="textView4">Stay Organized &amp; Achieve More</string>
+    <string name="textView5">Effortlessly manage your tasks and stay on top of your goals</string>
+    <string name="Next1">Next</string>
+    <string name="Next2">Next</string>
+    <string name="textView6">Plan Your Day</string>
+    <string name="NtextView7">Easily add, organize, and manage your tasks with just a few taps</string>
+    <string name="Next3">Next</string>
+    <string name="textView8">Never Miss a Deadline</string>
+    <string name="textView9">Set reminders and get timely notifications to stay on track</string>
+    <string name="textView17">Sign Up</string>
+    <string name="editTextText45">  Enter your name</string>
+    <string name="editTextText47">  Enter your email</string>
+    <string name="editTextText46">  Password</string>
+    <string name="textView1">Already have an account?</string>
+    <string name="textView2login">Login</string>
+    <string name="button7">SIGN UP</string>
+    <string name="button5">Login</string>
+    <string name="textView20">Forgot Password?</string>
+    <string name="editTextText7">  Password</string>
+    <string name="editTextText4">  Enter your email</string>
+    <string name="textView19">Welcome Back!</string>
+    <string name="textView18">Login</string>
+    <string name="title">Getup Jathu</string>
+    <string name="time">5:00 AM</string>
+    <string name="date">20 Sep</string>
+    <string name="description">Wakeup and Complete morning workout and meditation</string>
+    <string name="textView3">Write Task Here</string>
+    <string name="add_tittle">Add Note Title</string>
+    <string name="add_des">Add Description</string>
+    <string name="date1">Date Created</string>
+    <string name="time1">Time Created</string>
+    <string name="category">Select Category</string>
+    <string name="normal">Personal</string>
+    <string name="low">Others</string>
+    <string name="high">Work</string>
+    <string name="saveButton">Add Note</string>
+    <string name="textView0">Edit Task</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
